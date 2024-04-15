@@ -1,0 +1,1 @@
+<span>Сделано в</span><a href="#" target="blank"> Google</a>

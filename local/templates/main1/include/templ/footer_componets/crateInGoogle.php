@@ -1,0 +1,1 @@
+Сделано в <a href="" target="_blank">Google</a>
